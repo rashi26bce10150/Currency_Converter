@@ -1,4 +1,4 @@
-import display_currency
+import display_currencies
 import show_rates
 import show_history
 import convert_currency
