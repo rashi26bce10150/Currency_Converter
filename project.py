@@ -1,3 +1,7 @@
+import display_currency
+import show_rates
+import show_history
+import convert_currency
 rates = {
     "USD": 1.00,
     "INR": 88.00,
